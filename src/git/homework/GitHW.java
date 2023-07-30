@@ -12,6 +12,7 @@ public class GitHW {
 		System.out.println(a+b);
 	} 
 
+	//method added at github
 	public void getInfo() {
 		System.out.println("this is another method");
 			}
