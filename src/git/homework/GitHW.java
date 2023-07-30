@@ -11,6 +11,11 @@ public class GitHW {
 		
 		System.out.println(a+b);
 	} 
+	
+	public void getData() {
+		
+		System.out.println("this method added in eclipse");
+	} 
 
 	//method added at github
 	public void getInfo() {
