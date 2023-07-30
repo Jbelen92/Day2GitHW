@@ -13,7 +13,7 @@ public class GitHW {
 	} 
 
 	public void getInfo() {
-		System.out.println("this is another method") 
+		System.out.println("this is another method");
 			}
 
 }
