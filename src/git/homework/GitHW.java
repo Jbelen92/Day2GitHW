@@ -10,6 +10,10 @@ public class GitHW {
 	public static void add(int a, int b) {
 		
 		System.out.println(a+b);
-	}
+	} 
+
+	public void getInfo() {
+		System.out.println("this is another method") 
+			}
 
 }
